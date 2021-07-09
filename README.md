@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcwferree
 - 👀 I’m interested in using computers to help people
 - 🌱 I’m currently learning what is going to be the next generation of IT solutions
-- 💞️ I’m looking to collaborate on meaningful projects with kind-hearted individuals
+- 💞️ I’m looking to collaborate on meaningful projects with kind-hearted individuals that have a positive impact on the world we live in
 - 📫 How to reach me at mferree@quivadore.com or www.quivadore.com
 
 <!---
